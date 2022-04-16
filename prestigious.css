@@ -333,16 +333,6 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*//*begin-commonstyles library*/@charset "UTF-8";
-
-/*!
- * animate.css -https://daneden.github.io/animate.css/
- * Version - 3.7.2
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2019 Daniel Eden
- */
-
 @-webkit-keyframes bounce {
   from,
   20%,
@@ -446,8 +436,6 @@ span.fr-img-caption.fr-view {
   -webkit-animation-name: flash;
   animation-name: flash;
 }
-
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @-webkit-keyframes pulse {
   from {
@@ -825,7 +813,7 @@ span.fr-img-caption.fr-view {
   animation-name: tada;
 }
 
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 
 @-webkit-keyframes wobble {
   from {
