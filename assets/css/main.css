@@ -142,11 +142,11 @@
 	list-style: none;
 }
 
-.sec {
+.sec h2{
 	text-align: center;
 	text-transform: uppercase;
 	color: rgb(165, 4, 4);
-	font-weight: bolder;
+	font-weight: 700;
 }
 
 .tiles article>a h2 i {

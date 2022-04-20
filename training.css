@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&display=swap');
+*{
+  font-family: 'Akshar', sans-serif;
+}
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
 }
 .section-heading h1{
     font-weight: 100%;
@@ -17,6 +20,10 @@ section{
 .row{
     display: flex;
     flex-wrap: wrap;
+}
+.row h1{
+    color: #c01c06;
+    font-weight: 700;
 }
 .column{
     width: 100%;
