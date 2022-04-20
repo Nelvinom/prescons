@@ -130,7 +130,7 @@
 }
 
 .content {
-	font-size: medium;
+	font-size:small;
 	text-decoration: overline;
 	text-align: center;
 	color: black;
@@ -140,6 +140,8 @@
 
 .content ul {
 	list-style: none;
+	text-align: center;
+	padding-right: 2.5em;
 }
 
 .sec h2{
