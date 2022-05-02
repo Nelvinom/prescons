@@ -148,6 +148,7 @@ p {
   align-items: center;
   text-align: center;
   display: flex;
+  padding-left: 4px;
   font-size: 1.5em;
   color: rgb(88 199 250 / 0%);
   cursor: pointer;
@@ -160,7 +161,12 @@ p {
 }
 
 .container {
-  padding-left: 4em;
+  padding-right: 500px;
+  text-align: center;
+
+  }
+.consultancy{
+  /* margin-top: 3200px; */
 }
 
 .card-1:hover {
@@ -229,4 +235,22 @@ a {
   font-family: sans-serif;
   font-weight: bold;
   margin-top: 2rem;
+}
+footer{
+  /* position:absolute; */
+   bottom:0;
+   width:100%;
+  margin-top: 4000px !important;
+   
+}
+@media screen and (min-width: 768px) {
+  footer {
+    margin-bottom: 0 !important;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  footer {
+    margin-bottom: 0 !important;
+  }
 }
