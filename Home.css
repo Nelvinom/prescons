@@ -1,9 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@302;400&display=swap');
 *{
   font-family: 'Akshar', sans-serif;
+ 
 }
 .u-section-1 {
-  background-image: linear-gradient(to right, white, #db545a);
+  background-image: url("images/20504165.jpg");
+  background-size: cover;
+}
+.motto{
+  text-align: center;
+  background-color: #a8afb6;
+  border-radius: 5px;
+  background-color: transparent
 }
 
 .u-section-1 .u-sheet-1 {
@@ -39,7 +47,7 @@
 .u-section-1 .u-image-1 {
   width: 283px;
   height: 283px;
-  background-image: url("images/532296-700x401.jpg");
+  background-image: url("images/checckkk.jpg");
   background-position: 50% 50%;
   margin: -426px -6px 0 auto;
 }
@@ -278,7 +286,7 @@
     margin-bottom: 24px;
   }
 } .u-section-2 {
-  background-image: url("images/-min.jpg");
+  background-image: url("images/1393228.jpg");
 }
 
 .u-section-2 .u-sheet-1 {
