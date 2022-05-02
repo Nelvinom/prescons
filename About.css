@@ -2,6 +2,9 @@
 *{
   font-family: 'Akshar', sans-serif;
 }
+.fint{
+  font-family: 'Akshar', sans-serif;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 807px;
 }
@@ -39,7 +42,7 @@
 .u-section-1 .u-image-1 {
   width: 255px;
   height: 255px;
-  background-image: url("images/5-Tips-to-Accelerate-Business-Growth-1280x720.png");
+  background-image: url("images/bsg.webp");
   background-position: 50% 50%;
   margin: 76px auto 0 -3px;
 }
@@ -63,6 +66,7 @@
   font-size: 1.25rem;
   font-weight: 400;
   margin: 33px 0 0;
+  font-family: 'Akshar', sans-serif;
 }
 
 @media (max-width: 1199px) {
